@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T19:09:11.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="zX22CwkkmLUZ4Bmg0FTO" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T20:26:40.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6EHJPSNvXYJBL9Th6KlP" version="24.3.1" type="github">
   <diagram name="Página-1" id="oBxenZuUOaPq-wPp3VoI">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-1" value="&lt;b&gt;Guía Despacho&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Proceso Guía Despacho&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264" y="10" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-3" value="Asocia Facturas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-4" value="Asocia Movimientos Inventarios Consignación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-5" value="Por Despachar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="345" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-6" value="En Despacho" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="345" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-8" value="&lt;ul&gt;&lt;li&gt;Salida del Camión&lt;/li&gt;&lt;li&gt;Salida Mercancía Almacén Físico&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="164" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XxjZMEUmHU7MvS2FlVLv-9" value="Resumen de Carga Despacho" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
