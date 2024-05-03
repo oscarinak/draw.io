@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T02:55:58.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="_c_4dUBu9t290pJzOGMy" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T03:07:20.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8-sGuN3GP1AI1jSXYFyU" version="24.3.1" type="github">
   <diagram name="Página-1" id="4Hkc1VNaZyGkQF7PlKfy">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PROCESO CARGA DE COBROS&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="229" y="10" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLy8pT3ZwjXGz19ZKAQP-2" target="oLy8pT3ZwjXGz19ZKAQP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-2" value="&lt;b&gt;Carga de Cobros&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLy8pT3ZwjXGz19ZKAQP-3" target="oLy8pT3ZwjXGz19ZKAQP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-3" value="Extracto Bancario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLy8pT3ZwjXGz19ZKAQP-4" target="oLy8pT3ZwjXGz19ZKAQP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-4" value="Archivo de Carga de Cobros&lt;div&gt;(Excel)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.558;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oLy8pT3ZwjXGz19ZKAQP-2" target="oLy8pT3ZwjXGz19ZKAQP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLy8pT3ZwjXGz19ZKAQP-8" target="oLy8pT3ZwjXGz19ZKAQP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-8" value="Cargador de Pagos desde Excel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oLy8pT3ZwjXGz19ZKAQP-11" value="Pagos/Recaudos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
