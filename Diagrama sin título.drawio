@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T18:56:28.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mgmTbXajBwxAy1pbq4Bg" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T02:41:48.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F3R9M3vDpdSn-O3qWz7a" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="LbvMlj1gCTwGpWhYF-W6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.367;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LbvMlj1gCTwGpWhYF-W6-51" target="LbvMlj1gCTwGpWhYF-W6-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbvMlj1gCTwGpWhYF-W6-57" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;PROCESO VENTAS&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="-40" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
